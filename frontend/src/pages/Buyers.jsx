@@ -44,14 +44,14 @@ const Buyers = () => {
             <div className="left-30 mt-10 px-10">
               <div>
                 <p className="w-[70%] bg-white mb-10 ">
-                  Landmark Realty Group was formed in 2013 by Bill Sewell. With
-                  over 30 years of residential real estate experience, we bring
-                  professional service that you can trust and depend on. SRG
+                  Best Home Realty was formed in 2023 by Imrul Hasan. With
+                  over 2 years of residential real estate experience, we bring
+                  professional service that you can trust and depend on. BHR
                   offers seller’s a chance not to pay high, outdated commission
                   rates. EFFICIENCY AND TECHNOLOGY mean lower fees. Buyers and
                   Sellers now have unlimited access to property listings and
                   other information that was once guarded by the big real estate
-                  firms. SRG is a progressive RE firm that embraces the new
+                  firms. BHR is a progressive RE firm that embraces the new
                   world of real estate. We offer two plans to fit your needs and
                   save you money!
                 </p>

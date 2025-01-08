@@ -44,7 +44,7 @@
 //           <Link to={"/"}>
 //             <img
 //               src="/src/assets/logo.png"
-//               alt="Landmark Realty Group Logo"
+//               alt="Best Home Realty Logo"
 //               className="w-[100px] h-[80px] "
 //             />
 //           </Link>
@@ -139,7 +139,7 @@ const Header = () => {
           <Link to={"/"}>
             <img
               src="/src/assets/logo.png"
-              alt="Landmark Realty Group Logo"
+              alt="Best Home Realty Realty Logo"
               className="w-[100px] h-[80px]"
             />
           </Link>
@@ -176,10 +176,6 @@ const Header = () => {
                 className="xl:hidden cursor-pointer text-3xl hover:text-blue-700"
               />
             )}
-            <button className="btn-secondary flexCenter gap-x-2 medium-10 rounded-full">
-              {/* <img src={userIcon} alt="" height={20} width={20} /> */}
-              <span>Sign Up</span>
-            </button>
           </div>
         </div>
       </div>

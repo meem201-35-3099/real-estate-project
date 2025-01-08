@@ -31,13 +31,17 @@ const ContactSection = () => {
           <div>
             <h2 className="text-3xl text-white font-bold">About Us</h2>
             <p className="mt-5 text-white text-justify">
-              The real estate landscape is changing. The internet is now the
-              primary tool for buying and selling your home. The team at Sewell
-              Realty Group embraces this change. We leverage our real estate
-              experience and the power of the internet and social media to make
-              your real estate experience a success. Simply stated, we will save
-              you money and provide you with the best marketing and
-              representation in the business.
+              With over 15 years of real estate and IT experiences, we provide
+              home buyers and sellers with professional, responsive and
+              attentive estate services in Northern Virginia. Let us help you
+              find the property that fits your needs, and guide you through the
+              buying process. We will make finding the right home for you our
+              highest priority. Buy with confidence knowing that you are getting
+              the right house at the right price. 
+              
+              We provide a complete suite of
+              services to ensure your home sells quickly and at the best price.
+              We can’t wait to get started.
             </p>
             <h3 className="mt-10 text-xl text-white font-semibold">
               Our Information
@@ -45,25 +49,25 @@ const ContactSection = () => {
             <ul className="mt-5 space-y-2 text-white">
               <li>
                 <i className="fa-solid fa-phone"></i>{" "}
-                <a href="tel:9199613789" className="hover:underline">
-                  919.961.3789
+                <a href="tel:3475527174" className="hover:underline">
+                  347.552.7174
                 </a>
               </li>
 
               <li>
                 <i className="fa-solid fa-envelope"></i>{" "}
                 <a
-                  href="mailto:info@landmarkrealtygroup.com"
+                  href="mailto:dmvbestrealtor@gmail.com"
                   className="hover:underline"
                 >
-                  info@landmarkrealtygroup.com
+                  dmvbestrealtor@gmail.com
                 </a>
               </li>
 
               <li>
-                <i className="fa-solid fa-earth-americas contact-icon"></i>
+                <i className="fa-solid fa-earth-americas contact-icon"></i>{" "}
                 <a href="#" className="hover:underline">
-                  landmarkrealtygroup.com
+                  https://dmvbestrealtor.com
                 </a>
               </li>
             </ul>

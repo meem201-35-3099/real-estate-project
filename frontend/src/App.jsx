@@ -11,7 +11,7 @@ import AddProperty from "./pages/AddProperty";
 import Bookings from "./pages/Bookings";
 import Favourites from "./pages/Favourites";
 
-import Header from "./components/header";
+import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 export default function App() {

@@ -22,7 +22,7 @@ const Sellers = () => {
                   className="my-10 max-w-[33rem] mt-4 text-xl 
         text-white"
                 >
-                  Sewell Realty Group offers the new business model for selling
+                  Best Home Realty offers the new business model for selling
                   Real Estate.
                 </p>
                 {/* button */}
@@ -44,26 +44,6 @@ const Sellers = () => {
       </section>
 
       <SellersDiscount />
-      <div className="bg-secondary h-auto mb-[.5px]">
-        <div>
-          <div className="row">
-            <div className="col-lg-8">
-              <div className="flexCenter mt-2">
-                <h3 className="text-white text-[25px]">
-                  Save Money and Sell Your House Today With Our Help.
-                </h3>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="flexCenter mt-2">
-                <button className="btn-secondary btn-secondary-outline btn-outline-white uppercase rounded">
-                  Sign up
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <ContactSection />
     </main>
   );

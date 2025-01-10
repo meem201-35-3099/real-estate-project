@@ -17,12 +17,12 @@ const Contact = () => {
                 className="absolute top-1/2 transform -translate-y-1/2 
                 left-20 h-auto w-[300px] p-[50px] px-[30px] text-left bg-black/50"
               >
-                <h1 className="text-white text-3xl font-bold">CONTACT US</h1>
+                <h1 className="text-white text-3xl font-bold">Start Your Journey with Best Home Realty</h1>
                 <p
                   className="my-10 max-w-[33rem] mt-4 text-xl 
                 text-white"
                 >
-                  Landmark Realty Group offers the new business model for
+                  Best Home Realty offers the new business model for
                   selling Real Estate.
                 </p>
                 {/* button */}
@@ -53,35 +53,9 @@ const Contact = () => {
               <div>
                 <ul className="text-secondary">
                   <li>
-                    <span className="text-black font-bold">Bill:</span>{" "}
-                    919.961.3765 Bill@sewellrealtygroup.com
+                    <span className="text-black font-bold">Imrul: </span>{" "}
+                    347.552.7174 dmvbestrealtor@gmail.com
                   </li>
-                  <br />
-                  <li>
-                    <span className="text-black font-bold">Christian:</span>{" "}
-                    919.794.1051 Christian@sewellrealtygroup.com
-                  </li>
-                  <br />
-                  <li>
-                    <span className="text-black font-bold">Jessalyn:</span>{" "}
-                    917.484.0185 Jessalyn@sewellrealtygroup.com
-                  </li>
-                  <br />
-                  <li>
-                    <span className="text-black font-bold">Larry:</span>{" "}
-                    919.274.1151 LarryO.srg@gmail.com
-                  </li>
-                  <br />
-                  <li>
-                    <span className="text-black font-bold">Lauren:</span>{" "}
-                    919.819.6295 Lauren@SewellRealtyGroup.com
-                  </li>
-                  <br />
-                  <li>
-                    <span className="text-black font-bold">Tom:</span>{" "}
-                    919.612.3584 Tom@sewellrealtygroup.com
-                  </li>
-                  <br />
                 </ul>
               </div>
 
@@ -93,27 +67,6 @@ const Contact = () => {
           <div></div>
         </div>
       </section>
-
-      <div className="bg-secondary h-auto mb-[.5px]">
-        <div>
-          <div className="row">
-            <div className="col-lg-8">
-              <div className="flexCenter mt-2">
-                <h3 className="text-white text-[25px]">
-                  Save Money and Sell Your House Today With Our Help.
-                </h3>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="flexCenter mt-2">
-                <button className="btn-secondary btn-secondary-outline btn-outline-white uppercase rounded">
-                  Contact us
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <ContactSection />
     </main>
   );

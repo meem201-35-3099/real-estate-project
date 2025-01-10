@@ -32,7 +32,7 @@ export default {
         "4xl": "2200px",
       },
       backgroundImage: {
-        home: "url(/src/assets/bg.jpg)",
+        home: "url(/src/assets/img-8.jpg)",
         sellers: "url(/src/assets/sellers.jpg)",
         buyers: "url(/src/assets/buyers.jpg)",
         contact: "url(/src/assets/contact2.jpg)",

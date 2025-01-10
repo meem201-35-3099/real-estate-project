@@ -78,7 +78,8 @@ const Navbar = ({ containerStyles }) => {
         <div>Listing</div>
       </NavLink>
 
-      {/* add property */}
+      {/* add property 
+
       <NavLink
         to={"/addproperty"}
         className={({ isActive }) =>

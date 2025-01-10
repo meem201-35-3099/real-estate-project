@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="row">
         <div className="col-lg-6">
-          <p>&copy; All rights reserved by Landmark Realty Group.</p>
+          <p>&copy; All rights reserved by Best Home Realty.</p>
         </div>
 
         <div className="col-lg-6">
